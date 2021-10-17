@@ -11,5 +11,7 @@ public class A {
         ArrayList<Integer> arr = new ArrayList<>();
         System.out.println("第二");
         System.out.println("第三");
+        System.out.println("第四");
+
     }
 }
