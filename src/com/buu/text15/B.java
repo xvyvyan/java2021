@@ -13,6 +13,7 @@ public class B {
         System.out.println("git5");
         System.out.println("git6");
         System.out.println('d');
+        System.out.println('c');
     }
 
 }
